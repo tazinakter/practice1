@@ -1,5 +1,5 @@
 # Simple Python example
-name = input("What is ")
+name = input("2nd branchh")
 print(f"Hello, {name}! Welcome to Python.")
 
 # A simple calculator
